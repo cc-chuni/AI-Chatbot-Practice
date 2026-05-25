@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "dotenv": "^17.4.2"
+  },
+  "type": "module",
+  "dependencies": {
+    "@inquirer/prompts": "^8.4.3",
+    "lowdb": "^7.0.1",
+    "openai": "^6.39.0"
+  }
+}

@@ -4,7 +4,7 @@
  
 ---
  
-## 專案列表
+## 學習內容
  
 ### [weather-tool-call](./weather-tool-call)
 結合 OpenWeatherMap API，讓 AI 自動判斷是否需要查詢天氣並回覆。
